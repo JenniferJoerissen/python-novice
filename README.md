@@ -5,6 +5,6 @@ My python project with a few datasets
 List the files
 
 - data/*csv
-- scrpt/utils.py
+- script/utils.py
 
 By Jennifer Jorissen
