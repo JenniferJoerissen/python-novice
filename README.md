@@ -7,4 +7,4 @@ List the files
 - data/*csv
 - script/utils.py
 
-By Jennifer Jorissen
+By Jennifer Jorissen (it was nice meeting you at the workshop!)
